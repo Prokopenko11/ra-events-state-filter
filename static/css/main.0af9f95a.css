@@ -1,0 +1,2 @@
+body{margin:20px}.portfolio{margin:auto;width:70%}.project-list{grid-gap:15px;display:grid;gap:15px;grid-template-columns:repeat(3,1fr);grid-template-rows:200px}.project-img{height:100%;object-fit:cover;width:100%}.img-wrapper:nth-child(3n+1){grid-row:span 2}button{background-color:#fff;border:1px solid #000;cursor:pointer;margin-right:10px;padding:5px 10px}.active{background-color:#686868;border:none;color:#fff}.toolbar{margin-bottom:20px}
+/*# sourceMappingURL=main.0af9f95a.css.map*/
